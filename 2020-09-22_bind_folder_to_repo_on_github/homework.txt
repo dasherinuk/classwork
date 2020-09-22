@@ -1,0 +1,4 @@
+bind folder on github
+1. create local repo to folder homework
+2. rede algo_bind_folder_to_repo_on_github.txt
+3. folow instuction from file

@@ -1,0 +1,8 @@
+#clon repo ad push file to repo on github
+clone repo
+0. create repo on github
+1. git clon repo_uri #(to any folder)
+# if i wont do commit
+2. git add . 
+3. git commit -m "comment for commit"
+4. git push origin branch_name
