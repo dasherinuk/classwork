@@ -1,0 +1,5 @@
+git init #create local repo to folder
+git commit -m "first commit" 
+git branch -M master
+git remote add origin repo_uri # repo_uri  i can get on github. it is path for repo
+git push -u origin master
