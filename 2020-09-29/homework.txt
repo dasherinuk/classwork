@@ -1,0 +1,3 @@
+homework do in folder homework
+
+write function draw S 
