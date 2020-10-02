@@ -1,10 +1,19 @@
-from turtle import fd, lt,rt
-fd(100)
-lt(90)
-fd(50)
-lt(90)
-fd(100)
-rt(90)
-fd(50)
-rt(90)
-fd(100)
+from turtle import fd, lt,rt,goto,up,down
+
+def draw_S(x,y,size):
+    up()
+    down()
+    lt(90)
+    fd(size)
+    lt(90)
+    fd(size)
+    rt(90)
+    fd(size)
+    rt(90)
+    fd(size)
+    up()
+    goto(x,y)
+    down()
+draw_S(100,100,50)
+
+draw_S(0,0,25)
