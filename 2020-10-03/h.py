@@ -9,7 +9,7 @@ def draw_H(x,y,size):
     rt(180)
     fd(size//2)
     lt(90)
-    fd(size)
+    fd(size//2)
     lt(90)
     fd(size//2)
     rt(180)
@@ -21,6 +21,3 @@ def draw_H(x,y,size):
 
 
 
-draw_H(100,100,50)
-
-draw_H(0,0,25)

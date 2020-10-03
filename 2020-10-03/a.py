@@ -18,4 +18,4 @@ def draw_A(x,y,size):
     goto(x,y)#go to coordinate x,y
     down()#down pen
 
-draw_A(100,100,50)
+

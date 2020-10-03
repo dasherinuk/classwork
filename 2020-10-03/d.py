@@ -16,5 +16,3 @@ def draw_D(x,y,size):
     #beck turn
     lt(180)
 
-draw_D(100,100,50)
-draw_D(0,0,20)
