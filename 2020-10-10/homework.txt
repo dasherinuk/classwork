@@ -1,0 +1,3 @@
+write code that will draw chess board 8x8,while writing the code use function from file classwork_squareline.py
+write the code in a different file
+save in file ,homework and push on github
