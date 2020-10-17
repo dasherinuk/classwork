@@ -1,0 +1,2 @@
+write function that draws a vertical line out of squares,size and amount given through function
+write function that draws a square made out of smaller squares,size and amount is given thrugh function
