@@ -1,0 +1,1 @@
+user writes 10 numbers,put all 10 numbers into a list,add and print  onto screen the sum 
