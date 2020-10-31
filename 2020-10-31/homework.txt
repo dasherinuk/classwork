@@ -1,0 +1,1 @@
+user enters the amount of elements in the array,each element on a new line,if the number is positive change the number to 1,if it is negative change it to -1

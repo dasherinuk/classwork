@@ -1,0 +1,1 @@
+user put in the amount of numbers and the numbers,find the smallest number and the largest number,to find this write max,min.
