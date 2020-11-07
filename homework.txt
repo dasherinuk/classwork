@@ -1,0 +1,1 @@
+write code that will move elements to the right as many spaces as the user wants using cycle 
