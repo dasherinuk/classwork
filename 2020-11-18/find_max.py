@@ -5,3 +5,4 @@ for i in range(0,len(array)):
         max_array=array[i]
 array[0]=max_array
 print(array)
+
