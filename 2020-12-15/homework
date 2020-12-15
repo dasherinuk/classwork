@@ -1,0 +1,4 @@
+1.change the first and last clumn places if the sum of the first column is bigger than the sum of the last column
+
+2.change the first and last column,the second and second from last column etc.,if the first columnyou compare
+with is larger than the other hange places,when you get to the middle stop
