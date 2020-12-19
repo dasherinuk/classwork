@@ -1,0 +1,8 @@
+the matrix is always squared
+1.change the first and last array places if the sum of the first array is bigger than the sum of the last array,
+the mtrix is always squared
+
+2.change the first and last array,the second and second from last array etc.,if the first array you compare
+with is larger than the other hange places,when you get to the middle stop,the matrix is always squared
+
+3.go through all files
