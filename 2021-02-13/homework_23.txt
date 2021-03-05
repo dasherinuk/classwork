@@ -1,0 +1,1 @@
+write a method that checks if the scond picturefits into the right top corner of the first picture
